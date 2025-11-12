@@ -32,7 +32,7 @@ Medusa is a powerful, easy-to-use Python GUI application to fetch high-quality w
    ```bash
    git clone https://github.com/yourusername/medusa.git
    cd medusa
-````
+```
 
 2. **Install requirements:**
 
