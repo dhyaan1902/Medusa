@@ -1,5 +1,4 @@
-# Medusa
-````markdown
+
 # Medusa – Smart Wallpaper Downloader
 
 Medusa is a powerful, easy-to-use Python GUI application to fetch high-quality wallpapers from multiple sources. It provides a smooth and modern interface for managing your desktop backgrounds and supports advanced image search without the need for API keys.
@@ -80,7 +79,7 @@ Medusa is a powerful, easy-to-use Python GUI application to fetch high-quality w
 
 * **Image Quality:** ImageSearch prioritizes high-resolution wallpapers with keywords like `4K`, `1920x1080`, `wallpaper`, and `wide`.
 * **Cross-platform:** Works on Linux, Windows, and macOS (requires Python 3.12+).
-* **API Keys:** If using sources like Unsplash or Pexels, ensure you provide valid API keys in `config.json`.
+* **API Keys:** If using sources like Unsplash or Pexels, ensure you provide valid API keys in settings tab
 * **Preserving Wallpapers:** Use the **Preserve Pictures** option to avoid overwriting previous downloads during auto-refresh.
 
 ---
